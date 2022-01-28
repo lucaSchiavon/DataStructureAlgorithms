@@ -1,0 +1,24 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=62982584_002Dbff2_002D4280_002Da6c8_002D0bd98415741d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Sort_WhenLaunch_ExecuteSorting #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::65D6E0C6-20D9-4B84-AC4B-75C78AA89398::.NETCoreApp,Version=v2.1::TheUltimateDataAndStructures.Test.TheUltimateDataAndStructuresTest.Sort_WhenLaunch_ExecuteSorting&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f8cfd38b_002D2b8e_002D4c78_002D86b7_002Dfa5532ad5442/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Sort_WhenLaunch_ExecuteSorting" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::65D6E0C6-20D9-4B84-AC4B-75C78AA89398::.NETCoreApp,Version=v2.1::TheUltimateDataAndStructures.Test.TheUltimateDataAndStructuresTest.SelectionSort_Sort_WhenLaunch_ExecuteSorting&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::65D6E0C6-20D9-4B84-AC4B-75C78AA89398::.NETCoreApp,Version=v2.1::TheUltimateDataAndStructures.Test.TheUltimateDataAndStructuresTest.InsertionSort_Sort_WhenLaunch_ExecuteSorting&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::65D6E0C6-20D9-4B84-AC4B-75C78AA89398::.NETCoreApp,Version=v2.1::TheUltimateDataAndStructures.Test.TheUltimateDataAndStructuresTest.MergeSort_Sort_WhenLaunch_ExecuteSorting&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::65D6E0C6-20D9-4B84-AC4B-75C78AA89398::.NETCoreApp,Version=v2.1::TheUltimateDataAndStructures.Test.TheUltimateDataAndStructuresTest.BubbleSort_Sort_WhenLaunch_ExecuteSorting&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::65D6E0C6-20D9-4B84-AC4B-75C78AA89398::.NETCoreApp,Version=v2.1::TheUltimateDataAndStructures.Test.TheUltimateDataAndStructuresTest.QuickSort_Sort_WhenLaunch_ExecuteSorting&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::65D6E0C6-20D9-4B84-AC4B-75C78AA89398::.NETCoreApp,Version=v2.1::TheUltimateDataAndStructures.Test.TheUltimateDataAndStructuresTest.CountingSort_Sort_WhenLaunch_ExecuteSorting&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::65D6E0C6-20D9-4B84-AC4B-75C78AA89398::.NETCoreApp,Version=v2.1::TheUltimateDataAndStructures.Test.TheUltimateDataAndStructuresTest.BucketSort_Sort_WhenLaunch_ExecuteSorting&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::65D6E0C6-20D9-4B84-AC4B-75C78AA89398::.NETCoreApp,Version=v2.1::TheUltimateDataAndStructures.Test.TheUltimateDataAndStructuresTest.LinearSearch_Search_WhenLaunch_ReturnIndexOfValueFounded&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::65D6E0C6-20D9-4B84-AC4B-75C78AA89398::.NETCoreApp,Version=v2.1::TheUltimateDataAndStructures.Test.TheUltimateDataAndStructuresTest.LinearSearch_Search_WhenLaunch_ReturnMinusOneBecouseTheValueIsNotInTheArray&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::65D6E0C6-20D9-4B84-AC4B-75C78AA89398::.NETCoreApp,Version=v2.1::TheUltimateDataAndStructures.Test.TheUltimateDataAndStructuresTest.BinarySearch_Search_WhenLaunch_ReturnIndexOfvalueFoundedInArray&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::65D6E0C6-20D9-4B84-AC4B-75C78AA89398::.NETCoreApp,Version=v2.1::TheUltimateDataAndStructures.Test.TheUltimateDataAndStructuresTest.BinarySearch_Search_WhenLaunch_ReturnMinusOneIfValueIsNotFound&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::65D6E0C6-20D9-4B84-AC4B-75C78AA89398::.NETCoreApp,Version=v2.1::TheUltimateDataAndStructures.Test.TheUltimateDataAndStructuresTest.BinarySearch_SearchRec2_WhenLaunch_ReturnIndexOfvalueFoundedInArray&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::65D6E0C6-20D9-4B84-AC4B-75C78AA89398::.NETCoreApp,Version=v2.1::TheUltimateDataAndStructures.Test.TheUltimateDataAndStructuresTest.BinarySearch_SearchIter_WhenLaunch_ReturnMinusOneIfValueIsNotFound&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::65D6E0C6-20D9-4B84-AC4B-75C78AA89398::.NETCoreApp,Version=v2.1::TheUltimateDataAndStructures.Test.TheUltimateDataAndStructuresTest.BinarySearch_SearchIter_WhenLaunch_ReturnIndexOfValueInArrayBecouseValueIsFounded&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

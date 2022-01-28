@@ -1,0 +1,17 @@
+C:\LUCA_SCHIAVON\Archiva\formazione\TheUltimateDataAndStructures\TheUltimateDataAndStructures.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\LUCA_SCHIAVON\Archiva\formazione\TheUltimateDataAndStructures\TheUltimateDataAndStructures.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\LUCA_SCHIAVON\Archiva\formazione\TheUltimateDataAndStructures\TheUltimateDataAndStructures.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\LUCA_SCHIAVON\Archiva\formazione\TheUltimateDataAndStructures\TheUltimateDataAndStructures.Test\bin\Debug\netcoreapp2.1\TheUltimateDataAndStructures.Test.deps.json
+C:\LUCA_SCHIAVON\Archiva\formazione\TheUltimateDataAndStructures\TheUltimateDataAndStructures.Test\bin\Debug\netcoreapp2.1\TheUltimateDataAndStructures.Test.runtimeconfig.json
+C:\LUCA_SCHIAVON\Archiva\formazione\TheUltimateDataAndStructures\TheUltimateDataAndStructures.Test\bin\Debug\netcoreapp2.1\TheUltimateDataAndStructures.Test.runtimeconfig.dev.json
+C:\LUCA_SCHIAVON\Archiva\formazione\TheUltimateDataAndStructures\TheUltimateDataAndStructures.Test\bin\Debug\netcoreapp2.1\TheUltimateDataAndStructures.Test.dll
+C:\LUCA_SCHIAVON\Archiva\formazione\TheUltimateDataAndStructures\TheUltimateDataAndStructures.Test\bin\Debug\netcoreapp2.1\TheUltimateDataAndStructures.Test.pdb
+C:\LUCA_SCHIAVON\Archiva\formazione\TheUltimateDataAndStructures\TheUltimateDataAndStructures.Test\bin\Debug\netcoreapp2.1\TheUltimateDataAndStructures.dll
+C:\LUCA_SCHIAVON\Archiva\formazione\TheUltimateDataAndStructures\TheUltimateDataAndStructures.Test\bin\Debug\netcoreapp2.1\TheUltimateDataAndStructures.pdb
+C:\LUCA_SCHIAVON\Archiva\formazione\TheUltimateDataAndStructures\TheUltimateDataAndStructures.Test\obj\Debug\netcoreapp2.1\TheUltimateDataAndStructures.Test.csprojAssemblyReference.cache
+C:\LUCA_SCHIAVON\Archiva\formazione\TheUltimateDataAndStructures\TheUltimateDataAndStructures.Test\obj\Debug\netcoreapp2.1\TheUltimateDataAndStructures.Test.csproj.CoreCompileInputs.cache
+C:\LUCA_SCHIAVON\Archiva\formazione\TheUltimateDataAndStructures\TheUltimateDataAndStructures.Test\obj\Debug\netcoreapp2.1\TheUltimateDataAndStructures.Test.AssemblyInfoInputs.cache
+C:\LUCA_SCHIAVON\Archiva\formazione\TheUltimateDataAndStructures\TheUltimateDataAndStructures.Test\obj\Debug\netcoreapp2.1\TheUltimateDataAndStructures.Test.AssemblyInfo.cs
+C:\LUCA_SCHIAVON\Archiva\formazione\TheUltimateDataAndStructures\TheUltimateDataAndStructures.Test\obj\Debug\netcoreapp2.1\TheUltimateDataAndStructures.Test.csproj.CopyComplete
+C:\LUCA_SCHIAVON\Archiva\formazione\TheUltimateDataAndStructures\TheUltimateDataAndStructures.Test\obj\Debug\netcoreapp2.1\TheUltimateDataAndStructures.Test.dll
+C:\LUCA_SCHIAVON\Archiva\formazione\TheUltimateDataAndStructures\TheUltimateDataAndStructures.Test\obj\Debug\netcoreapp2.1\TheUltimateDataAndStructures.Test.pdb
